@@ -1,5 +1,5 @@
 # Rosserial
-## Jetson nano와 Arduino uno보드를 ROSserial을 이용하여 연결한다.
+## Jetson nano와 Arduino uno보드를 ROSserial을 이용하여 연결
 ### Servo motor 제어
 
 ```c
