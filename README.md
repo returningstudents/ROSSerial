@@ -53,5 +53,5 @@ $ rosrun rosserial_python serial_node.py _port:=/dev/ttyACM0
 $ rostopic pub /servo std_msgs/UInt16 90 --once  // UInt16 xx <- 각도 조절, --once 한번만 실행
 ```
 
-<img src="https://user-images.githubusercontent.com/65072588/168051012-70534f85-239a-4dac-a2a0-464b6217805d.gif">
+<img src="https://user-images.githubusercontent.com/65072588/168052111-50469276-72cb-4750-bd87-a6a73a738647.gif">
 
