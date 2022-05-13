@@ -1,5 +1,6 @@
-# Servo motor 제어
+# Servo motor
 
+## Servo motor 제
 젯슨나노(publish) 입력한 각도를 rosserial을 이용하여 아두이노 나노(subscribe)로 전송하여 servo motor의 각도를 조절한다
 
 ### 아두이노
@@ -59,7 +60,7 @@ $ rostopic pub /servo std_msgs/UInt16 90 --once  // UInt16 xx <- 각도 조절, 
 <img src="https://user-images.githubusercontent.com/65072588/168052111-50469276-72cb-4750-bd87-a6a73a738647.gif">
 
 
-# 다중 Servo motor 제어
+## 다중 Servo motor 제어
 
 젯슨나노(publish) 입력한 각도를 rosserial을 이용하여 아두이노 나노(subscribe)로 전송하여 3개의 servo motor의 각도를 조절한다
 
