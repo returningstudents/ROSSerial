@@ -41,9 +41,10 @@ void loop(){
   nh.spinOnce();
   delay(1);
 }
+```
 
 ### 젯슨 나노
-```
+
 ROS를 실행하기 위해 터미널창에 아래 코드를 실행시킨다.
 ```
 $ roscore
